@@ -1,5 +1,0 @@
-train (t-qyunoqchngxguqzagsgfdk16n) {
-  utterance ("[g:CreateUser] age (24,)[v:Age] (Female)[v:Gender] recommand")
-  plan (Y2BjkCnISaxML8ovzUvRS8qsSEos0gvLLHPOzytJrSjBJutclJpYkhpanFrEIIEpG1xaVJZaySCHTSYpN7MEKi+KKe+YnorNQPfUvBSgVawMjAxMDMwMLEAWA5TNDKQZwBgEQDywLAA=)
-  last-modified (1592640131595)
-}

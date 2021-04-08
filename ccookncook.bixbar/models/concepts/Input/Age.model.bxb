@@ -1,3 +1,0 @@
-integer (Age) {
-  description (The user's age for the survey.)
-}

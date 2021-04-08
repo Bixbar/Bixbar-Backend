@@ -1,7 +1,0 @@
-structure (Parameter) {
- description (__DESCRIPTION__)
-  property (cocktailName) {
-    type (Title)
-    min (Required) max (One)
-  }
-}
