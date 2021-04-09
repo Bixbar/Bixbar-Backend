@@ -19,6 +19,6 @@
 - manage.py
 
 ## Code review
-## lookupQuery(queryType, q):
+### lookupQuery(queryType, q):
 ```python
 ```
